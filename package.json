@@ -1,0 +1,10 @@
+{
+  "name": "team-ai-workflow",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate-ai-workflow.mjs",
+    "context-pack": "node scripts/make-context-pack.mjs"
+  }
+}

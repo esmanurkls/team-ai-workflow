@@ -1,0 +1,6 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+.ai/context-packs/
+node_modules/
