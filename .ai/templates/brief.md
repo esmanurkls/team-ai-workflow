@@ -4,6 +4,7 @@
 
 - Human owner:
 - Date:
+- Tier: `full`
 
 ## Goal
 

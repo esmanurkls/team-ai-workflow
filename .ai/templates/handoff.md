@@ -2,7 +2,9 @@
 
 ## Status
 
-`planned` / `implementing` / `in-review` / `verified` / `blocked` / `done`
+`planned`
+
+<!-- Exactly one of: planned, implementing, in-review, verified, blocked, done -->
 
 ## Goal
 

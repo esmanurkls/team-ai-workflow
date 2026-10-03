@@ -8,6 +8,8 @@
 
 ## Findings
 
+<!-- One block per finding. Delete the example block if there are none. Disposition: fixed / accepted / deferred. -->
+
 ### [P_ — title]
 
 - Evidence:
